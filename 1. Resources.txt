@@ -1,0 +1,8 @@
+1.1 Examples of bad visualizations --> http://viz.wtf/
+
+1.2 Blogs and experts
+- Cole Nussbaumer, Book --> Storytelling with Data: a Data Visualization Guide for Business Professionals --> https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=sr_1_fkmrnull_1?keywords=Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals&qid=1551735767&s=books&sr=1-1-fkmrnull
+
+- Cole Nussbaumer, Blog --> http://www.storytellingwithdata.com
+
+- Other blog --> https://flowingdata.com/

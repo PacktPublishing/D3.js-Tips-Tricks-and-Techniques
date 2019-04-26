@@ -1,0 +1,17 @@
+6.1 
+Installing the d3.js library --> https://github.com/d3/d3
+scales --> https://github.com/d3/d3-scale
+domain and range --> https://github.com/d3/d3-scale#continuous_domain
+axis --> https://github.com/d3/d3-axis
+
+6.2
+tickFormat --> https://github.com/d3/d3-scale/blob/master/README.md#continuous_tickFormat
+
+6.3
+scaleTime --> https://github.com/d3/d3-scale#scaleTime
+
+6.4
+line --> https://github.com/d3/d3-shape
+
+6.5
+area --> https://github.com/d3/d3-shape#area

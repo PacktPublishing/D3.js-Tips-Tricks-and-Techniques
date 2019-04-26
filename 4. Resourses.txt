@@ -1,0 +1,24 @@
+4.1 Mike Bostock, Creator of D3.js --> https://github.com/mbostock
+
+
+4.2 
+Prefuse --> https://en.wikipedia.org/wiki/Prefuse
+Flare --> https://flare.prefuse.org/
+Protovis --> http://mbostock.github.io/protovis/
+
+4.3 
+http://bl.ocks.org/NPashaP/f1e73faef87bee899b47
+
+http://bibviz.com/#colorize:Crimson
+
+http://vax.herokuapp.com/
+
+http://d3.artzub.com/wbca/
+
+http://d3tetris.herokuapp.com/
+
+https://bl.ocks.org/ericcitaire/5408146
+
+http://wenchaojiang.github.io/d3game/
+
+http://d3shooter.herokuapp.com/

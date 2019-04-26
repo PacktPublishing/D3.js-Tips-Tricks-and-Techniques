@@ -1,0 +1,28 @@
+#barChart {
+	width  : 800px;
+	height : 400px;
+	margin : 20px auto;
+	background-color: grey;
+}
+
+.x-axis path .x-axis line {
+	shape-rendering: crispEdges;
+}
+
+.y-axis path .y-axis line {
+	shape-rendering: crispEdges;
+}
+
+
+.y-axis text {
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.x-axis text {
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-size: 14px;
+}
+

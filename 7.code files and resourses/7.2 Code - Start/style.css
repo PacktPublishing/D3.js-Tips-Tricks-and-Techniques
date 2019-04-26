@@ -1,0 +1,23 @@
+#barChart {
+	width  : 800px;
+	height : 600px;
+	margin : 25px auto;
+	background-color: grey;
+}
+
+.node circle {
+  fill: white;
+  stroke: black;
+  stroke-width: 5px;
+}
+
+.node text {
+  font: 14px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: orange;
+  stroke-width: 2px;
+}
+
